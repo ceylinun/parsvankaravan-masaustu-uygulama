@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\bin\Debug\Karavan.exe.config
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\bin\Debug\Karavan.exe
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\bin\Debug\Karavan.pdb
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\obj\Debug\Karavan.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\obj\Debug\Karavan.Form1.resources
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\obj\Debug\Karavan.Properties.Resources.resources
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\obj\Debug\Karavan.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\obj\Debug\Karavan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\obj\Debug\Karavan.exe
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\obj\Debug\Karavan.pdb
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\obj\Debug\Karavan.Form2.resources
+C:\Users\ASUS\Desktop\KaravanProje\Karavan\obj\Debug\Karavan.Form3.resources
